@@ -11,11 +11,13 @@
   "description": "",
   "dependencies": {
     "@solana-developers/helpers": "^2.4.0",
+    "@solana/spl-token": "^0.4.8",
     "@solana/web3.js": "^1.95.2",
     "dotenv": "^16.4.5",
     "esrun": "^3.2.26"
   },
   "devDependencies": {
     "@types/node": "^22.4.0"
-  }
+  },
+  "packageManager": "yarn@1.22.21+sha1.1959a18351b811cdeedbd484a8f86c3cc3bbaf72"
 }
